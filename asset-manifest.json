@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.0f14e55c.chunk.css",
+    "main.js": "/my-app/static/js/main.526b6e53.chunk.js",
+    "main.js.map": "/my-app/static/js/main.526b6e53.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.587faf9d.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.587faf9d.js.map",
+    "static/js/2.d0f145de.chunk.js": "/my-app/static/js/2.d0f145de.chunk.js",
+    "static/js/2.d0f145de.chunk.js.map": "/my-app/static/js/2.d0f145de.chunk.js.map",
+    "static/js/3.e3c6a8bb.chunk.js": "/my-app/static/js/3.e3c6a8bb.chunk.js",
+    "static/js/3.e3c6a8bb.chunk.js.map": "/my-app/static/js/3.e3c6a8bb.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.0f14e55c.chunk.css.map": "/my-app/static/css/main.0f14e55c.chunk.css.map",
+    "static/js/2.d0f145de.chunk.js.LICENSE.txt": "/my-app/static/js/2.d0f145de.chunk.js.LICENSE.txt",
+    "static/media/abacus.fb97b339.jpg": "/my-app/static/media/abacus.fb97b339.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.587faf9d.js",
+    "static/js/2.d0f145de.chunk.js",
+    "static/css/main.0f14e55c.chunk.css",
+    "static/js/main.526b6e53.chunk.js"
+  ]
+}
